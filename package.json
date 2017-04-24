@@ -1,0 +1,13 @@
+{
+  "name": "mock-apis",
+  "version": "1.0.0",
+  "description": "a set of mock apis to be served using now",
+  "repository": {},
+  "license": "MIT",
+  "dependencies": {
+    "json-server": "^0.9.4"
+  },
+  "scripts": {
+    "start": "json-server data.json"
+  }
+}
