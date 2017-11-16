@@ -1,19 +1,82 @@
 {
-"todos": [
+  "items": [
     {
-      "task": "Eat",
       "id": 1,
-      "complete": false
+      "title": "Great Lakes Brewing",
+      "type": "Beer",
+      "company": "Great Lakes Brewing",
+      "country": "USA",
+      "state": "Ohio",
+      "source": "",
+      "tray": "A001",
+      "color": "black"
     },
     {
-      "task": "Sleep",
-      "id": 2,
-      "complete": false
+      "id": 1,
+      "title": "Sierra Nevada",
+      "type": "Beer",
+      "company": "Sierra Nevada Brewing",
+      "country": "USA",
+      "state": "California",
+      "source": "",
+      "tray": "A001",
+      "color": "gold"
     },
     {
-      "task": "Code",
-      "id": 3,
-      "complete": false
+      "id": 1,
+      "title": "Unity Vibration",
+      "type": "Kombucha",
+      "company": "Unity Vibration",
+      "country": "USA",
+      "state": "Michigan",
+      "source": "",
+      "tray": "A001",
+      "color": "red"
+    },
+    {
+      "id": 1,
+      "title": "Breckenridge Brewery",
+      "type": "Beer",
+      "company": "Breckenridge Brewery",
+      "country": "USA",
+      "state": "Colorado",
+      "source": "",
+      "tray": "A001",
+      "color": "red"
+    },
+    {
+      "id": 1,
+      "title": "Budweiser",
+      "type": "Beer",
+      "company": "Anheuser-Busch,",
+      "country": "USA",
+      "state": "Missouri",
+      "source": "",
+      "tray": "A001",
+      "color": "red"
+    },
+    {
+      "id": 1,
+      "title": "Foster's",
+      "type": "Beer",
+      "company": "AB InBev",
+      "country": "Australia",
+      "state": "Victoria",
+      "source": "",
+      "tray": "A001",
+      "color": "blue"
+    },
+    {
+      "id": 1,
+      "title": "Sierra Nevada",
+      "type": "Beer",
+      "company": "Sierra Nevada Brewing",
+      "country": "USA",
+      "state": "California",
+      "source": "",
+      "tray": "A001",
+      "color": "green"
     }
   ]
 }
+  
